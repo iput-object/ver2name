@@ -65,10 +65,10 @@ project/
 ## Example
 
 ### Input:
-- `input/OpenID.apk` (App Name: `OpenID`, Version: `1.2.3`).
+- `input/DemoApk.apk` (App Name: `DemoApk`, Version: `6.9.6`).
 
 ### Output:
-- `output/OpenID_1.2.3.apk`.
+- `output/DemoApk_6.9.6.apk`.
 
 ---
 
